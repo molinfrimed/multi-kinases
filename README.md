@@ -11,6 +11,6 @@ Each row contains:
 Trained models to predict activity for our set of kinases can be downloaded from Zenodo https://doi.org/10.5281/zenodo.6554043
 
 ## Results
-A comprehensive overview of repurposable drugs for each kinase is reported on figure below:
+A comprehensive overview of repurposable drugs for each kinase is reported on figure below and is freely accessible on ![shinyapps.io](https://molinfrimed.shinyapps.io/kuala-demo/).
 
 ![Repurposable drugs distribution](https://github.com/molinfrimed/multi-kinases/blob/main/results/kinase_repurposing_distr.png?raw=true)
