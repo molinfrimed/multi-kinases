@@ -11,7 +11,7 @@ Each row contains:
 Trained models to predict activity for our set of kinases can be downloaded from Zenodo https://doi.org/10.5281/zenodo.6554043
 
 ## Tutorial
-KUALA models have been trained by using molecular descriptors computed with [PaDEL-Descriptor](http://www.yapcwsoft.com/dd/padeldescriptor/) software. Each molecule is represented as canonical SMILES.
+KUALA models have been trained by using molecular descriptors computed with [PaDEL-Descriptor](http://www.yapcwsoft.com/dd/padeldescriptor/) software.
 
 The following steps are useful to correctly predict activity for our set of kinases:
 1. Download KUALA models from Zenodo: https://doi.org/10.5281/zenodo.6867485 (PaDEL-Descriptors is also available as an extension of KNIME)
